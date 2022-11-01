@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271167623332",
+    "firebase_url": "https://tsa-exam-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tsa-exam",
+    "storage_bucket": "tsa-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271167623332:android:b55f84a68195f76c609631",
+        "android_client_info": {
+          "package_name": "com.dkodecreative.polije"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271167623332-039af903o78idnt4ae9iq3la88dkai1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClRkDzwTiBJYumDqx0nxqdAzxyWjWqUJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271167623332-039af903o78idnt4ae9iq3la88dkai1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
